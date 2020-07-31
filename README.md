@@ -11,5 +11,5 @@
  * 50% backend. :last_quarter_moon_with_face:
  * 50% frontend. :first_quarter_moon_with_face:
  * 100%  motivated to learn and improve my skills! :full_moon_with_face:
-![Badge](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=social&logo=LinkedIn)
-
+ 
+ (https://www.linkedin.com/in/giuliano-criscuoli/)https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
