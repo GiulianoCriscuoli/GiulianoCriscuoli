@@ -12,5 +12,6 @@
  * 50% frontend. :first_quarter_moon_with_face:
  * 100%  motivated to learn and improve my skills! :full_moon_with_face:
  
-[LinkedIn](https://www.linkedin.com/in/giuliano-criscuoli/)
+[LinkedIn](https://www.linkedin.com/in/giuliano-criscuoli/) 
+[Behance](https://www.behance.net/giulianocriscuoli)
  
