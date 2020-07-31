@@ -11,4 +11,4 @@
  * 50% backend. :last_quarter_moon_with_face:
  * 50% frontend. :first_quarter_moon_with_face:
  * 100%  motivated to learn and improve my skills! :full_moon_with_face:
-https://img.shields.io/static/v1?label=<LABEL>LinkedIn=<MESSAGE>blue=<COLOR>social=<STYLE>LinkedIn=<LOGO>
+https://img.shields.io/static/v1?label=<LABEL>LinkedIn=<MESSAGE>blue=<COLOR>social=<STYLE>file:///C:/Users/Giuliano/Downloads/linkedin.svg=<LOGO>
