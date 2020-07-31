@@ -11,5 +11,5 @@
  * 50% backend. :last_quarter_moon_with_face:
  * 50% frontend. :first_quarter_moon_with_face:
  * 100%  motivated to learn and improve my skills! :full_moon_with_face:
-![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
+![Badge](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=social&logo=LinkedIn)
 
